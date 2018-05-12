@@ -1,0 +1,39 @@
+_repo: The-Shadow-On-The-Dial-and-Other-Essays1909_25304
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+  editor:
+    agent_name: Howes, S. O. (Silas Orrin)
+    alias: Howes, Silas Orrin
+    birthdate: 1867
+    deathdate: 1918
+    gutenberg_agent_id: '31231'
+    url: http://www.gutenberg.org/2009/agents/31231
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+title: 'The Shadow On The Dial, and Other Essays
+
+  1909'
+url: http://www.gutenberg.org/ebooks/25304
